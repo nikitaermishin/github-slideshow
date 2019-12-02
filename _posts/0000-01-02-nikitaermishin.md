@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Plans are nothing. Planning is everything"
 Use the left arrow to go back!
